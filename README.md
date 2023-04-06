@@ -1,3 +1,10 @@
+# Hi there, I'm Moslih Badr 👋
+
+I'm a CS student, passionate about technology and always eager to learn new things. I love exploring new tech stacks and working on challenging projects. Feel free to connect with me or check out my work.
+
+## 📫 Get in touch
+- Email: [molihbadr2@example.com](mailto:moslihbadr2@example.com)
+
 # 💫 About Me:
 🤝 Seeking collaborative web development projects<br>🔍 In search of PHP mentorship<br>🌱 Learning PHP and enhancing my skills<br>💬 Available to discuss all things web development
 
