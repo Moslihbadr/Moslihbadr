@@ -3,7 +3,7 @@
 I'm a CS student, passionate about technology and always eager to learn new things. I love exploring new tech stacks and working on challenging projects. Feel free to connect with me or check out my work.
 
 ## 📫 Get in touch
-- Email: [molihbadr2@example.com](mailto:moslihbadr2@example.com)
+- Email: [molihbadr2@gmail.com](mailto:moslihbadr2@gmail.com)
 
 # 💫 About Me:
 🤝 Seeking collaborative web development projects<br>🔍 In search of PHP mentorship<br>🌱 Learning PHP and enhancing my skills<br>💬 Available to discuss all things web development
@@ -20,17 +20,17 @@ I'm a CS student, passionate about technology and always eager to learn new thin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Moslihbadr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moslihbadr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Moslihbadr&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Random Dev Quote
+# ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=Moslihbadr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# 😂 Random Dev Meme
+# 😂 Random Dev Meme:
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-# 👀 Total Visitors
+# 👀 Total Visitors:
 [![](https://visitcount.itsvg.in/api?id=Moslihbadr&icon=0&color=3)](https://visitcount.itsvg.in)
