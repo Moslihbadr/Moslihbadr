@@ -23,6 +23,3 @@ I'm a CS student, passionate about technology and always eager to learn new thin
 
 # ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=Moslihbadr&limit=5&theme=dark&combine_all_yearly_contributions=true)
