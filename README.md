@@ -6,7 +6,7 @@ I'm a CS student, passionate about technology, and always eager to learn new thi
 - Email: [molihbadr2@gmail.com](mailto:moslihbadr2@gmail.com)
 
 # 💫 About Me:
-🤝 Seeking collaborative web development projects<br>🌱 Learning Laravel to enhance my skills<br>💬 Available to discuss all things web development
+🤝 Seeking collaborative web development projects<br>🌱 Learning Next.js to enhance my skills<br>💬 Available to discuss all things web development
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Moslihbadr01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Moslihbadr01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badr-moslih-126822219) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BadrMoslih1)
@@ -21,6 +21,3 @@ I'm a CS student, passionate about technology, and always eager to learn new thi
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Moslihbadr&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-# ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
